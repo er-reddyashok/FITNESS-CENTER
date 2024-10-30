@@ -49,6 +49,4 @@ A web application designed to digitalize and streamline operations within a fitn
 - Admins and receptionists can log in to manage trainers and members.
 - Users receive automated email notifications regarding membership status.
 
-## License
-
-This project is licensed under the MIT License.
+Hosted Here - https://abhinavmodem2.pythonanywhere.com/
